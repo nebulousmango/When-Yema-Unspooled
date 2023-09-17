@@ -7,6 +7,7 @@ public class ButtonManager : MonoBehaviour
     [SerializeField] private string S_LevelOne;
     [SerializeField] private string S_LevelTwo;
     [SerializeField] private string S_LevelThree;
+    private int PrevScene;
 
     public void LoadLevelOne()
     {
@@ -23,9 +24,19 @@ public class ButtonManager : MonoBehaviour
         StartCoroutine(ChangeToScene(S_LevelThree));
     }
 
+    public void LoadPrevScene()
+    {
+        SceneManager.LoadScene(PrevScene);
+    }
+
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    private void Start()
+    {
+        PrevScene = SceneManager.GetActiveScene().buildIndex - 1;
     }
 
     public IEnumerator ChangeToScene(string sceneToChangeTo)

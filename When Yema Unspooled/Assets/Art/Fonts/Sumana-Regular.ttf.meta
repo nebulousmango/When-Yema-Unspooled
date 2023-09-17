@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9cd06774d6d89aa4fb40063bc8c4ef0c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sumana
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94597942e98735c40aa14bc38b98f492, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
