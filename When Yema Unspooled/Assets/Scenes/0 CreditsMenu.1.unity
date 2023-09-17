@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: next
+  m_text: Next
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 706795224745fc9489eb8b7cdf786b1c, type: 2}
   m_sharedMaterial: {fileID: 8774518603749679787, guid: 706795224745fc9489eb8b7cdf786b1c,
@@ -951,7 +951,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 11bb2c59e8c34c34d9d271ea87329c0a, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 91a7e4f1da5a2a347b80cfdfe4d42368, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.21
   m_Pitch: 1
@@ -1519,7 +1519,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: main
+  m_text: Main
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 706795224745fc9489eb8b7cdf786b1c, type: 2}
   m_sharedMaterial: {fileID: 8774518603749679787, guid: 706795224745fc9489eb8b7cdf786b1c,
