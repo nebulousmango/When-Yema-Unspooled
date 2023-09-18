@@ -590,7 +590,7 @@ MonoBehaviour:
   S_LevelOne: 8 Return
   S_LevelTwo: 8 Leave
   S_LevelThree: 0 StartMenu
-  S_LevelFour: 
+  S_LevelFour: 7 Docks.2
 --- !u!1 &846489240
 GameObject:
   m_ObjectHideFlags: 0

@@ -741,7 +741,7 @@ MonoBehaviour:
   S_LevelOne: 4 Ruins.2
   S_LevelTwo: 
   S_LevelThree: 0 StartMenu
-  S_LevelFour: 
+  S_LevelFour: 3 Fields.5
 --- !u!1 &933703632
 GameObject:
   m_ObjectHideFlags: 0

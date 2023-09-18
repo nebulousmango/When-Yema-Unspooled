@@ -453,7 +453,7 @@ MonoBehaviour:
   S_LevelOne: 6 Plains.4
   S_LevelTwo: 
   S_LevelThree: 0 StartMenu
-  S_LevelFour: 
+  S_LevelFour: 5 Forests.1
 --- !u!1 &933703632
 GameObject:
   m_ObjectHideFlags: 0

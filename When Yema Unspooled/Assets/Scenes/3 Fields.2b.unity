@@ -453,7 +453,7 @@ MonoBehaviour:
   S_LevelOne: 3 Fields.2bb
   S_LevelTwo: 
   S_LevelThree: 0 StartMenu
-  S_LevelFour: 
+  S_LevelFour: 3 Fields.2
 --- !u!1 &805674750
 GameObject:
   m_ObjectHideFlags: 0
