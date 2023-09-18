@@ -311,17 +311,17 @@ MonoBehaviour:
   m_text: 'Yema feels like she could skip over the waves if she wanted to. She decides
     to try her luck on a boat instead. '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 706795224745fc9489eb8b7cdf786b1c, type: 2}
-  m_sharedMaterial: {fileID: 8774518603749679787, guid: 706795224745fc9489eb8b7cdf786b1c,
+  m_fontAsset: {fileID: 11400000, guid: d13328dd328c59d49a12beac3105501c, type: 2}
+  m_sharedMaterial: {fileID: 8918176144209448402, guid: d13328dd328c59d49a12beac3105501c,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284380859
-  m_fontColor: {r: 0.73333335, g: 0.4627451, b: 0.36862746, a: 1}
-  m_enableVertexGradient: 1
+    rgba: 4284037430
+  m_fontColor: {r: 0.21239765, g: 0.22365533, b: 0.3490566, a: 1}
+  m_enableVertexGradient: 0
   m_colorMode: 1
   m_fontColorGradient:
     topLeft: {r: 0.73333335, g: 0.4627451, b: 0.36862746, a: 1}
@@ -337,19 +337,19 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 15
-  m_fontSizeBase: 15
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 4
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: -160
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -373,7 +373,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 1
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: 60.274155, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -835,10 +835,10 @@ RectTransform:
   m_Father: {fileID: 750716786}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 526.5, y: 107.1}
-  m_SizeDelta: {x: 436.48395, y: 43.257523}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -114.3, y: -133}
+  m_SizeDelta: {x: 436.48395, y: 43.257507}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1282263800
 MonoBehaviour:
@@ -1286,7 +1286,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 97.26, y: 99.37}
+  m_AnchoredPosition: {x: -87, y: 43}
   m_SizeDelta: {x: 412.84888, y: 97.625}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1734464653
@@ -1320,8 +1320,8 @@ MonoBehaviour:
     will you do now?\u201D they ask. \r\n\r\nYema gets to her feet slowly and deliberates
     for several moments. "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a91edffce234ac142a1d0c0c53baa4dc, type: 2}
-  m_sharedMaterial: {fileID: -5836732334702979111, guid: a91edffce234ac142a1d0c0c53baa4dc,
+  m_fontAsset: {fileID: 11400000, guid: e71f211a42445c74d99f7f03c94a576d, type: 2}
+  m_sharedMaterial: {fileID: 5196060274121753685, guid: e71f211a42445c74d99f7f03c94a576d,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1346,19 +1346,19 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 13
-  m_fontSizeBase: 13
+  m_fontSize: 11.5
+  m_fontSizeBase: 11.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 4
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: -50
+  m_lineSpacing: -160
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -1382,7 +1382,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 1
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.00000094741154, w: 0}
+  m_margin: {x: 0, y: 0, z: 82.7937, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1653,9 +1653,9 @@ RectTransform:
   m_Father: {fileID: 750716786}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 558.23, y: 143.729}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -150, y: -92.999985}
   m_SizeDelta: {x: 352.1344, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &5601745527367170947
@@ -1752,17 +1752,17 @@ MonoBehaviour:
       m_Calls: []
   m_text: Her family must be missing her. She decides to turn back and head home.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 706795224745fc9489eb8b7cdf786b1c, type: 2}
-  m_sharedMaterial: {fileID: 8774518603749679787, guid: 706795224745fc9489eb8b7cdf786b1c,
+  m_fontAsset: {fileID: 11400000, guid: d13328dd328c59d49a12beac3105501c, type: 2}
+  m_sharedMaterial: {fileID: 8918176144209448402, guid: d13328dd328c59d49a12beac3105501c,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284380859
-  m_fontColor: {r: 0.73333335, g: 0.4627451, b: 0.36862746, a: 1}
-  m_enableVertexGradient: 1
+    rgba: 4284037430
+  m_fontColor: {r: 0.21239765, g: 0.22365533, b: 0.3490566, a: 1}
+  m_enableVertexGradient: 0
   m_colorMode: 1
   m_fontColorGradient:
     topLeft: {r: 0.73333335, g: 0.4627451, b: 0.36862746, a: 1}
@@ -1778,19 +1778,19 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 15
-  m_fontSizeBase: 15
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 4
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: -160
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -1814,7 +1814,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 1
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -4.925598, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0

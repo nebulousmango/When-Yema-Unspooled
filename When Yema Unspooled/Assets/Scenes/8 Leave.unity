@@ -1063,7 +1063,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000012398, y: 79}
+  m_AnchoredPosition: {x: -0.000012398, y: 14.9}
   m_SizeDelta: {x: 261.4744, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1734464653
@@ -1090,8 +1090,8 @@ MonoBehaviour:
     liberation. After a few moments of thought, she walks onto the nearest boat and
     asks its captain if they\u2019re looking for any new deckhands."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a91edffce234ac142a1d0c0c53baa4dc, type: 2}
-  m_sharedMaterial: {fileID: -5836732334702979111, guid: a91edffce234ac142a1d0c0c53baa4dc,
+  m_fontAsset: {fileID: 11400000, guid: e71f211a42445c74d99f7f03c94a576d, type: 2}
+  m_sharedMaterial: {fileID: 5196060274121753685, guid: e71f211a42445c74d99f7f03c94a576d,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1124,11 +1124,11 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: -50
+  m_lineSpacing: -160
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -1152,7 +1152,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 1
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.00000094741154, w: 0}
+  m_margin: {x: 0, y: 0, z: 1.141716, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1376,19 +1376,19 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: end
+  m_text: The end.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 706795224745fc9489eb8b7cdf786b1c, type: 2}
-  m_sharedMaterial: {fileID: 8774518603749679787, guid: 706795224745fc9489eb8b7cdf786b1c,
+  m_fontAsset: {fileID: 11400000, guid: d13328dd328c59d49a12beac3105501c, type: 2}
+  m_sharedMaterial: {fileID: 8918176144209448402, guid: d13328dd328c59d49a12beac3105501c,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284380859
-  m_fontColor: {r: 0.73333335, g: 0.4627451, b: 0.36862746, a: 1}
-  m_enableVertexGradient: 1
+    rgba: 4284037430
+  m_fontColor: {r: 0.21239765, g: 0.22365533, b: 0.3490566, a: 1}
+  m_enableVertexGradient: 0
   m_colorMode: 1
   m_fontColorGradient:
     topLeft: {r: 0.73333335, g: 0.4627451, b: 0.36862746, a: 1}
@@ -1416,7 +1416,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: -160
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
