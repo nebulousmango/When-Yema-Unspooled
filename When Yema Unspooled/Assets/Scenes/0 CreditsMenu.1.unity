@@ -526,7 +526,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Foreground images
+  m_text: Images
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 706795224745fc9489eb8b7cdf786b1c, type: 2}
   m_sharedMaterial: {fileID: 8774518603749679787, guid: 706795224745fc9489eb8b7cdf786b1c,
@@ -816,7 +816,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 157.54, y: 44.6}
+  m_AnchoredPosition: {x: 157.54, y: 22.1}
   m_SizeDelta: {x: 315.07086, y: 189.11624}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &895342883
@@ -839,17 +839,21 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Photograph of mud houses in Ouarzazate, Morocco.\nPhotograph of Madras
-    street scene, 1890s.\nRice-field in Suizu, 1951: woodblock print by Toshi Yoshida.\nPhotograph
-    of stone temple east of the village of Para, 1872-73: by Joseph David Beglar.\nPhotograph
-    at Great Falls Park, 2018: by Hunter Kotlinski.\nSky at sunset, Jamaica, West
-    Indies, 1865: oil painting by Frederic Edwin Church.\nCalm Wind, 1937: woodblock
-    print by Hiroshi Yoshida.\nFrog Effigy Pendant, Lizard Pendant, Dog Effigy, Adornment,
-    Dog Effigy Vessel, Burial Urn, \"Aquilla\" (Drinking Cup), Ancestral Figure and
-    Ballplayer Figure from Walters Art Museum\u2019s digital Ancient Americas collection."
+  m_text: "MS Dutch 23 (Houghton Library, Harvard University collection), 1832: manuscript
+    by Pierre-Jacques Thiry.\r\nMoroccan mountain village, 2023: photographs by Fadel
+    Senna.\r\nPhotograph of Madras street scene, 1890s.\r\nRice-field in Suizu, 1951:
+    woodblock print by Toshi Yoshida.\r\nPhotograph of stone temple east of the village
+    of Para, 1872-73: by Joseph David Beglar.\r\nMori (Forest), 1928: painting by
+    Katayama Bokuyo\r.\nSky at sunset, Jamaica, West Indies, 1865: oil painting by
+    Frederic Edwin Church.\r\nCalm Wind, 1937: woodblock print by Hiroshi Yoshida.\r\n\rIrozaki,
+    Morning, 1961:  woodblock print by Toshi Yoshida.\r\n\rFrog Effigy Pendant and
+    Lizard Pendant from Walters Art Museum\u2019s digital Ancient Americas collection.\r\n\rUiltje
+    (Owl), 1919: painting by Jan Wittenberg\r.\nRed Winged Blackbird: illustration
+    by John James Audubon\r.\n\rThree Beauties of the Present Day, 1793: woodblock
+    print by Kitagawa Utamaro.\r\r\nCrab, 1883: illustration by Louis Gonse."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a91edffce234ac142a1d0c0c53baa4dc, type: 2}
-  m_sharedMaterial: {fileID: -5836732334702979111, guid: a91edffce234ac142a1d0c0c53baa4dc,
+  m_fontAsset: {fileID: 11400000, guid: e71f211a42445c74d99f7f03c94a576d, type: 2}
+  m_sharedMaterial: {fileID: 5196060274121753685, guid: e71f211a42445c74d99f7f03c94a576d,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -874,8 +878,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 13
-  m_fontSizeBase: 13
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -886,7 +890,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: -50
+  m_lineSpacing: -160
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -910,7 +914,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 1
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.00000094741154, w: 0}
+  m_margin: {x: 0, y: -33.270386, z: 22.237617, w: -192.02081}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1462,6 +1466,7 @@ MonoBehaviour:
   S_LevelOne: 0 CreditsMenu.2
   S_LevelTwo: 0 StartMenu
   S_LevelThree: 
+  S_LevelFour: 
 --- !u!1 &2119545241
 GameObject:
   m_ObjectHideFlags: 0
