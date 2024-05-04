@@ -35,11 +35,6 @@ public class ButtonManager : MonoBehaviour
         Application.Quit();
     }
 
-    private void Start()
-    {
-        PrevScene = SceneManager.GetActiveScene().buildIndex - 1;
-    }
-
     public IEnumerator ChangeToScene(string sceneToChangeTo)
     {
         yield return new WaitForSeconds(1);
